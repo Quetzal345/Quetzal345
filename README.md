@@ -3,6 +3,7 @@
 🎓 I'm a Computer Engineering student at the University of Guadalajara, passionate about problem-solving, software development, and innovation through technology. I participated in a student exchange program at **Universidad de la República** in Uruguay to deepen my knowledge in **artificial intelligence** and **algorithm design**.
 
 🏆 I’ve been part of the **ICPC competitive programming circuit**, proudly representing my university at the **Gran Premio de México**. 
+
 🥋 **Fun Fact:** I’m a **black belt in Taekwondo** and was part of the UDG university team for four years. 
 
 ## 💻 Tech Stack
