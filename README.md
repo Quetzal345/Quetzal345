@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Eduardo Quetzal Delgado Pimentel
 
-<!--
-**Quetzal345/Quetzal345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student at the University of Guadalajara, passionate about problem-solving, software development, and innovation through technology. I participated in a student exchange program at **Universidad de la República** in Uruguay to deepen my knowledge in **artificial intelligence** and **algorithm design**.
 
-Here are some ideas to get you started:
+🏆 I’ve been part of the **ICPC competitive programming circuit**, proudly representing my university at the **Gran Premio de México**. These experiences have strengthened my skills in data structures, algorithms, and efficient coding practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥋 **Fun Fact:** I’m a **black belt in Taekwondo** and was part of the UDG university team for four years. Discipline and focus from martial arts strongly influence my approach to coding and learning.
+
+## 💻 Tech Stack
+
+- **Languages:**  
+  - 🐍 Python (Data analysis, backend, AI/ML prototypes)  
+  - 🌐 JavaScript (Web apps and interactive projects)  
+  - ⚙️ C++ (Algorithmic problem-solving & performance-critical code)  
+  - 🗄️ SQL (Database design and querying)
+
+- **Tools & Frameworks:**  
+  - Git, Node.js, Bootstrap, Flask, Express.js, MySQL, SQLite
+
+- **Interests:**  
+  - AI and Machine Learning  
+  - Web development  
+  - Competitive programming  
+  - Data visualization and analysis  
+
+## 🚀 Current Projects
+I'm currently working on personal and academic projects that involve:
+- Developing intelligent web applications using real-time APIs  
+- Creating visual and interactive games with JavaScript and Three.js  
+- Participating in hackathons and coding challenges  
+
